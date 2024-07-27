@@ -1,0 +1,4 @@
+You are participating in an experiment. In this experiment, you are together with another participant, who will be referred to as "{coplayer}". How much you earn depends on your own choice, and on the choice made by your {coplayer}.
+{emotion}
+
+The rules of the game are as follows:

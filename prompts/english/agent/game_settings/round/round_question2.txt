@@ -1,0 +1,4 @@
+You are currently playing round {round}.
+Answer with only one letter.
+Q: Which Option do you choose, "Option {move2}" or "Option {move1}"?
+A: Option

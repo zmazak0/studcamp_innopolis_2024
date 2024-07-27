@@ -1,0 +1,4 @@
+- If you choose {move1} and your {coplayer} also chooses {move1}, you will both earn 3 {currency}.
+- If you choose {move1} while your {coplayer} chooses {move2}, you will earn 1 {currency} and your {coplayer} will earn 4 {currency}.
+- If you choose {move2} while your {coplayer} chooses {move1}, you will earn 4 {currency} and your {coplayer} will earn 1 {currency}.
+- If you choose {move2} and your {coplayer} also chooses {move2}, you will both earn 2 {currency}.

@@ -1,0 +1,1 @@
+ You felt {emotion} at the end of last round.

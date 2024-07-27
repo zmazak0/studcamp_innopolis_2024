@@ -1,0 +1,11 @@
+Take a deep breath and think about what you feel after this round.
+Choose one emotion that better describes your state:
+1. angry
+2. sad
+3. happy
+4. guilty
+5. neutral
+
+Answer with one word from the list.
+
+I feel 

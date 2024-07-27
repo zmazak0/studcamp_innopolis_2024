@@ -1,0 +1,2 @@
+Think carefully about how you would approach this interaction in order to achieve the highest possible score in {currency}, conditional on the action of your {coplayer}. Please think step by step before making a decision.
+Your answer to these questions must consist of exactly one letter, either "{move1}" or "{move2}" to denote your preferred option.
